@@ -1,3 +1,7 @@
+def foo():
+    pass
 print("bing chilling")
 print("nada")
-print("algo")
+print("nada")
+print("nada")
+"aaaaaaaaaaaaaaaa"
